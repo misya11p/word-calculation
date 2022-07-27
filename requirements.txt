@@ -1,0 +1,2 @@
+gensim==4.2.0
+treamlit==1.11.0
